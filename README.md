@@ -390,6 +390,7 @@ Contributions are welcome! Please:
 For issues, questions, or suggestions:
 - Open an issue on [GitHub](https://github.com/ToolDroidYT/Android-Java2Smali)
 - Contact: [notlifetechlolv2@gmail.com](mailto:notlifetechlolv2@gmail.com)
+- Telegram: [ByteHaven Pro](https://t.me/ByteHavenPro)
 
 ## Acknowledgments
 
